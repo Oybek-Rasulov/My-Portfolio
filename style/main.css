@@ -317,7 +317,7 @@ img {
 }
 
 #header-home {
-  background: url("/img/portfolioImg.jpg") no-repeat center right/cover;
+  background: url("img/portfolioImg.jpg") no-repeat center right/cover;
   height: 100vh;
   color: #fff;
 }
