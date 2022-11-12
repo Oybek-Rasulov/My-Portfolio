@@ -317,7 +317,7 @@ img {
 }
 
 #header-home {
-  background: url("./img/portfolioImg.jpg") no-repeat center right/cover;
+  background: url("../img/portfolioImg.jpg") no-repeat center right/cover;
   height: 100vh;
   color: #fff;
 }
@@ -333,7 +333,7 @@ img {
 }
 
 #header-inner {
-  background: url("./img/portfolioImg.jpg") no-repeat 20% 30%/cover;
+  background: url("../img/portfolioImg.jpg") no-repeat 20% 30%/cover;
   height: 5.5rem;
   border-bottom: 3px solid #08ec08;
 }
